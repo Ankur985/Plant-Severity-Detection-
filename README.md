@@ -1,1 +1,1 @@
-# Plant-Severity-Detection-
+# Plant-Severity-Detection
